@@ -14,8 +14,10 @@ public class Calculadora {
         return a/b;
     }
 
-    public double multiploica (double a, double b){
+    public double multiplica (double a, double b){
         return a*b;
 
     }
+
+
 }
